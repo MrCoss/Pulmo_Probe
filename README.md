@@ -1,6 +1,7 @@
 ﻿# PulmoProbe AI – Full-Stack Lung Cancer Prediction Platform
 
 **PulmoProbe AI** is a professional AI-powered platform for predicting lung cancer outcomes using large-scale healthcare data. The project demonstrates expertise in data science, software engineering, and scalable cloud deployment.
+<img width="1920" height="3792" alt="screencapture-pulmo-probe-vercel-vercel-app-2025-09-15-01_11_41" src="https://github.com/user-attachments/assets/4241c301-8c3b-4da2-a447-8fe52e34a10d" />
 
 ---
 
